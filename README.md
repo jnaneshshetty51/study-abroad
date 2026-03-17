@@ -31,7 +31,7 @@ A comprehensive Next.js application for managing study abroad consultancy servic
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/jnaneshshetty51/study-abroad.git
 cd study-abroad
 ```
 
@@ -158,7 +158,7 @@ sudo systemctl enable minio
 1. **Clone repository on VPS**:
 ```bash
 cd /var/www
-git clone <repository-url> study-abroad
+git clone https://github.com/jnaneshshetty51/study-abroad.git study-abroad
 cd study-abroad
 ```
 
